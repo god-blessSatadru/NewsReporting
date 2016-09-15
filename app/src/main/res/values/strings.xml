@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NewsReporting</string>
+    <string name="no_internet_connection">The device does not have internet connection</string>
+    <string name="no_news">No news to display</string>
+    <string name="first_param">q</string>
+    <string name="first_value">International</string>
+    <string name="second_param">"api-key"</string>
+    <string name="second_value">test</string>
+    <string name="third_param">"show-tags"</string>
+    <string name="third_value">contributor</string>
+</resources>
